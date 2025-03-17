@@ -1,4 +1,4 @@
-# TO Setup Jenkins
+# To Setup Jenkins
 
 Run following command
 
